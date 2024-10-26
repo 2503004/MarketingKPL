@@ -5,13 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-		
 html,
 body {
 	font-size: 24px;
 }
-
-
 .main-container {
 	width: 100%;
 	height: 100vh;
